@@ -1,0 +1,10 @@
+### Post Request
+POST http://localhost:3000/dbaf78qierwy8bqyh3nnd8andfh
+Content-Type: application/json
+
+{
+  "keyword": "budapest"
+}
+
+### Delete Request
+DELETE http://localhost:3000/dbaf78yh3nnd32438andfh
